@@ -1,8 +1,3 @@
 # Full-Stack-open-2022
 
-graph TD
-A[Christmas] -->|Get money| B(Go shopping)
-B --> C{Let me think}
-C -->|One| D[Laptop]
-C -->|Two| E[iPhone]
-C -->|Three| F[fa:fa-car Car]
+[![](https://mermaid.ink/img/pako:eNpVkE1vwjAMhv9K5NMmFdQPSmgOk0bZuDBt0jit5WDRQCLWJEqDNtb2vy-0Qtp8sv0-fmW7hb2uODA4WjSCbFelIj4ei1xY2bgamx2ZTB66NXek1opfOrK8W2vSCG2MVMf7kV9eIZK3myvGiRNSnfpRyof5V8U7sio2aJw2u7_K9kt35KmQb8Lb_1eE5X7quTggO-Bkj5bkaAcEAqi5rVFWfvX22inBCV7zEphPK7SnEkrVew7PTr9f1B6Ys2cewNlU6PhKor-4vjUNqg-tfXnAz2asgbXwDSzJwmm6iGdRms7iNAvnswAuwGg2DSOa0igO0zmlWR_Az2AQTmlG0yimWZLE8zBZRAHwSjptX8ZHD__ufwExNnHb?type=png)](https://mermaid.live/edit#pako:eNpVkE1vwjAMhv9K5NMmFdQPSmgOk0bZuDBt0jit5WDRQCLWJEqDNtb2vy-0Qtp8sv0-fmW7hb2uODA4WjSCbFelIj4ei1xY2bgamx2ZTB66NXek1opfOrK8W2vSCG2MVMf7kV9eIZK3myvGiRNSnfpRyof5V8U7sio2aJw2u7_K9kt35KmQb8Lb_1eE5X7quTggO-Bkj5bkaAcEAqi5rVFWfvX22inBCV7zEphPK7SnEkrVew7PTr9f1B6Ys2cewNlU6PhKor-4vjUNqg-tfXnAz2asgbXwDSzJwmm6iGdRms7iNAvnswAuwGg2DSOa0igO0zmlWR_Az2AQTmlG0yimWZLE8zBZRAHwSjptX8ZHD__ufwExNnHb)
